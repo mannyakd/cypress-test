@@ -1,0 +1,6 @@
+{
+  "homepage": {
+    "button_acceptAllCookies": "#ccc-notify-accept",
+    "table_risers": "div.detail-table-content"
+  }
+}
